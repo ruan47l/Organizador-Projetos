@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "id": "dc09",
+      "name": "jogo",
+      "budget": "100",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "2cef",
+      "name": "meu projeto",
+      "budget": "50",
+      "category": {
+        "id": "3",
+        "name": "design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "b16e",
+      "name": "verificar contas",
+      "budget": "400",
+      "category": {
+        "id": "4",
+        "name": "planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "286f",
+      "name": "jogo 5",
+      "budget": "30",
+      "category": {
+        "id": "2",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "name": "infra"
+    },
+    {
+      "id": "2",
+      "name": "desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "design"
+    },
+    {
+      "id": "4",
+      "name": "planejamento"
+    }
+  ]
+}

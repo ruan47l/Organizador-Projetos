@@ -1,0 +1,32 @@
+h1{
+  margin-bottom: 0.5em;
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.message{
+  width: 100%;
+  padding: 1em;
+  border:  1px solid #000000;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 2em;
+  border-radius: 5px;
+}
+
+.success{
+  color: #000000;
+  background-color: rgb(175, 255, 157);
+  font-size: 1.4em;
+  border: none;
+}
+
+.error{
+  color: #000000;
+  background-color: rgb(255, 180, 180);
+  border: none;
+  font-size: 1.4em;
+}
+

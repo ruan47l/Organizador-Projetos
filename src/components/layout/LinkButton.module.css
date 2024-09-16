@@ -1,0 +1,15 @@
+.btn{
+  background-color: #000000;
+  color: #fff;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  transition: 0.5s;
+  height: 3em;
+  display: flex;
+  align-items: center;
+}
+
+.btn:hover{
+  color: #ffbb33;
+  transform: translateY(-4px);
+}
